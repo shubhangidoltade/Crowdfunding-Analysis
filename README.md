@@ -2,7 +2,7 @@
    Key   KPIs include project by outcomes, project distribution by location and category,  and success metrics like amount raised, number of backers, and campaign 
    duration.
 
-• Analyzed 140,313 successful projects raising $1.34 billion, highlighting strong crowdfunding potential. 
+• 140,313 successful projects raising $1.34 billion, highlighting strong crowdfunding potential. 
 
 • Identified top-performing categories (Comics, Fiction, Fashion) and advised creators to choose categories with higher success rates.
 
