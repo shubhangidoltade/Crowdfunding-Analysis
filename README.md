@@ -1,3 +1,6 @@
+![Alt text](https://github.com/shubhangidoltade/Crowdfunding-Analysis/blob/ef8bab3f324c02f440586ef9780a141979d8f806/Crowdfunding%20POWERBI%20Dashboard.png)
+ 
+ 
  • This project uses Excel, SQL, and Power BI to analyze Kickstarter crowdfunding data and provide insights to improve campaign success. 
    Key   KPIs include project by outcomes, project distribution by location and category,  and success metrics like amount raised, number of backers, and campaign 
    duration.
